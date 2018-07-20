@@ -1,0 +1,848 @@
+﻿Log file open, 07/20/18 20:56:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FPBG
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-871397720) SRandInit(-871397720).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.255115
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.701s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Q6600 (192.168.1.42:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Juegos/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.067s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.20-19.56.20:546][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.20-19.56.20:547][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.20-19.56.20:580][  0]LogInit: Computer: Q6600
+[2018.07.20-19.56.20:581][  0]LogInit: User: bitt3rman
+[2018.07.20-19.56.20:581][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.20-19.56.20:581][  0]LogInit: High frequency timer resolution =2.343833 MHz
+[2018.07.20-19.56.20:581][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.07.20-19.56.20:581][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.20-19.56.20:581][  0]LogMemory: Process Physical Memory: 273.78 MB used, 273.78 MB peak
+[2018.07.20-19.56.20:581][  0]LogMemory: Process Virtual Memory: 270.14 MB used, 270.14 MB peak
+[2018.07.20-19.56.20:581][  0]LogMemory: Physical Memory: 5179.45 MB used,  3011.04 MB free, 8190.49 MB total
+[2018.07.20-19.56.20:581][  0]LogMemory: Virtual Memory: 4776.43 MB used,  3011.04 MB free, 134217728.00 MB total
+[2018.07.20-19.56.20:625][  0]LogInit: Using OS detected language (es-ES).
+[2018.07.20-19.56.20:625][  0]LogInit: Using OS detected locale (es-ES).
+[2018.07.20-19.56.20:633][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.07.20-19.56.21:382][  0]LogStreaming: Display: Took  0.758s to EndInitTextLocalization.
+[2018.07.20-19.56.21:382][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.20-19.56.21:432][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.20-19.56.21:432][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.20-19.56.21:971][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.20-19.56.22:065][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 730' (Feature Level 11_0)
+[2018.07.20-19.56.22:065][  0]LogD3D11RHI:       2018/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.20-19.56.22:070][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.20-19.56.22:070][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.20-19.56.22:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.20-19.56.22:090][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.20-19.56.22:090][  0]LogD3D11RHI:     GPU DeviceId: 0x1287 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.20-19.56.22:090][  0]LogWindows: EnumDisplayDevices:
+[2018.07.20-19.56.22:090][  0]LogWindows:    0. 'NVIDIA GeForce GT 730' (P:1 D:1)
+[2018.07.20-19.56.22:091][  0]LogWindows:    1. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2018.07.20-19.56.22:091][  0]LogWindows:    2. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2018.07.20-19.56.22:091][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.20-19.56.22:091][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 730
+[2018.07.20-19.56.22:091][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.20-19.56.22:092][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.20-19.56.22:092][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.07.20-19.56.22:152][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.20-19.56.22:152][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.20-19.56.22:152][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.20-19.56.22:167][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.20-19.56.22:170][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../UE_Projects/FPBG/Intermediate/Shaders/WorkingDirectory/10296/).
+[2018.07.20-19.56.22:171][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bitt3rman/AppData/Local/Temp/UnrealShaderWorkingDir/890AEF254CE1FCB4AF9B2F8879DC5452/'.
+[2018.07.20-19.56.22:771][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.20-19.56.22:804][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.20-19.56.22:836][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.20-19.56.22:868][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.20-19.56.22:903][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.20-19.56.22:936][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.20-19.56.22:968][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.20-19.56.23:000][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.20-19.56.23:016][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.20-19.56.23:045][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.20-19.56.23:075][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.20-19.56.23:104][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.20-19.56.23:134][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.20-19.56.23:163][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.20-19.56.23:193][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.20-19.56.23:252][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.20-19.56.23:252][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.20-19.56.23:283][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.20-19.56.23:286][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.20-19.56.23:344][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.20-19.56.23:373][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.20-19.56.23:404][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.20-19.56.23:445][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.20-19.56.23:480][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.20-19.56.23:519][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.20-19.56.23:519][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.20-19.56.23:844][  0]LogXGEController: Cleaning working directory: C:/Users/bitt3rman/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.20-19.56.23:845][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.20-19.56.23:845][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.20-19.56.23:845][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.20-19.56.25:703][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.20-19.56.25:933][  0]LogDerivedDataCache: Loaded boot cache 0.23s 74MB C:/Users/bitt3rman/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.20-19.56.25:934][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bitt3rman/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.20-19.56.25:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE_Projects/FPBG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.20-19.56.25:934][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.20-19.56.25:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UE_Projects/FPBG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.20-19.56.25:934][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.20-19.56.25:963][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.20-19.56.25:978][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bitt3rman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.20-19.56.25:978][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.20-19.56.25:978][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.20-19.56.26:004][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.20-19.56.26:005][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.20-19.56.26:007][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.20-19.56.26:007][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.20-19.56.26:281][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2018.07.20-19.56.27:043][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.20-19.56.27:358][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.20-19.56.27:364][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.20-19.56.27:364][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.20-19.56.27:364][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.20-19.56.27:364][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.20-19.56.27:364][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.20-19.56.27:434][  0]LogNetVersion: FPBG , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1413110598)
+[2018.07.20-19.56.28:652][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.353482 seconds
+[2018.07.20-19.56.28:665][  0]LogUObjectArray: 36735 objects as part of root set at end of initial load.
+[2018.07.20-19.56.28:665][  0]LogUObjectAllocator: 7528576 out of 0 bytes used by permanent object pool.
+[2018.07.20-19.56.28:665][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.20-19.56.32:475][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.20-19.56.32:534][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.20-19.56.33:364][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.20-19.56.33:364][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.20-19.56.33:412][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.20-19.56.33:456][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.20-19.56.34:539][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.20-19.56.34:900][  0]LogOcInput: OculusInput pre-init called
+[2018.07.20-19.56.35:136][  0]LogEngine: Initializing Engine...
+[2018.07.20-19.56.35:139][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.20-19.56.35:142][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.20-19.56.35:143][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.20-19.56.35:693][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.20-19.56.35:788][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-19.56.35:836][  0]LogInit: FAudioDevice initialized.
+[2018.07.20-19.56.36:093][  0]LogDerivedDataCache: Saved boot cache 0.26s 74MB C:/Users/bitt3rman/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.20-19.56.36:154][  0]LogInit: Texture streaming: Enabled
+[2018.07.20-19.56.36:200][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.20-19.56.36:266][  0]LogInit: Transaction tracking system initialized
+[2018.07.20-19.56.36:323][  0]BlueprintLog: New page: Cargar el editor
+[2018.07.20-19.56.36:469][  0]LocalizationService: Localization service is disabled
+[2018.07.20-19.56.36:701][  0]LogConsoleResponse: Display: 
+[2018.07.20-19.56.37:078][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.20-19.56.37:078][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.20-19.56.37:078][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.20-19.56.37:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.20-19.56.37:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.20-19.56.37:309][  0]LogFileCache: Scanning file cache for directory 'F:/Juegos/UE_Projects/FPBG/Content/' took 0.03s
+[2018.07.20-19.56.38:002][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.20-19.56.38:002][  0]Cmd: MAP LOAD FILE="../../../../UE_Projects/FPBG/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.20-19.56.38:003][  0]LightingResults: New page: Diseñar la iluminación
+[2018.07.20-19.56.38:009][  0]MapCheck: New page: Revisión del mapa
+[2018.07.20-19.56.38:009][  0]LightingResults: New page: Diseñar la iluminación
+[2018.07.20-19.56.38:248][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec83872200, Size=528, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-19.56.38:353][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ece6ff24a0, Size=96, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.20-19.56.38:403][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec809f1378, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-19.56.38:415][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec838754b0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.20-19.56.38:503][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec80e6e200, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.07.20-19.56.39:033][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec83872200, Size=528
+[2018.07.20-19.56.39:034][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecec93da80, Size=528, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_5:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-19.56.39:035][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ece6ff24a0, Size=96
+[2018.07.20-19.56.39:035][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec843f79a0, Size=96, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_0:ExecuteUbergraph_HostMenu
+[2018.07.20-19.56.39:035][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec809f1378, Size=40
+[2018.07.20-19.56.39:035][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec8448e958, Size=40, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.07.20-19.56.39:036][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec838754b0, Size=104
+[2018.07.20-19.56.39:036][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec843dde50, Size=104, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_3:ExecuteUbergraph_OptionsMenu
+[2018.07.20-19.56.39:037][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec80e6e200, Size=608
+[2018.07.20-19.56.39:037][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecec93d580, Size=608, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_4:ExecuteUbergraph_ServerMenu
+[2018.07.20-19.56.39:119][  0]LogBlueprint: Error: [Compiler GameInfoInstance] In use pin  Save Game Ref  no longer exists on node  Obtener . Please refresh node or break links to remove pin.
+[2018.07.20-19.56.39:195][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec840b5580, Size=528, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-19.56.39:209][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec8409e560, Size=96, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.20-19.56.39:213][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec8448f948, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-19.56.39:221][  0]LogBlueprint: Warning: [Compiler OptionsMenu] Could not find the function 'GameSave' called from  Game Save
+[2018.07.20-19.56.39:243][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec84029fa0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.20-19.56.39:251][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec84037380, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.07.20-19.56.39:338][  0]LogBlueprint: Warning: [Compiler GameInfoInstance] [0024,68] Compile of GameInfoInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 596 ms] (/Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance)
+[2018.07.20-19.56.39:339][  0]LogBlueprint: Warning: [Compiler OptionsMenu] [0024,68] Compile of OptionsMenu successful, but with 1 Warning(s) [in 597 ms] (/Game/UI/MainMenu/OptionsMenu.OptionsMenu)
+[2018.07.20-19.56.39:382][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec84075120, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-19.56.39:385][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec84075120, Size=32
+[2018.07.20-19.56.39:385][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec84075120, Size=32, MainMenu_C_0 Function /Engine/Transient.REINST_MainMenu_C_12:ExecuteUbergraph_MainMenu
+[2018.07.20-19.56.39:387][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec84075940, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-19.56.39:836][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.20-19.56.39:838][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.20-19.56.39:862][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecec93da80, Size=528
+[2018.07.20-19.56.39:862][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec843f79a0, Size=96
+[2018.07.20-19.56.39:862][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec8448e958, Size=40
+[2018.07.20-19.56.39:862][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec843dde50, Size=104
+[2018.07.20-19.56.39:862][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecec93d580, Size=608
+[2018.07.20-19.56.39:862][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec84075120, Size=32
+[2018.07.20-19.56.39:874][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.20-19.56.39:997][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123,087ms to complete.
+[2018.07.20-19.56.39:997][  0]LogFileHelpers: Loading map 'MainMenu' took 1.996
+[2018.07.20-19.56.41:052][  0]LogCollectionManager: Loaded 0 collections in 0.016044 seconds
+[2018.07.20-19.56.41:224][  0]LogFileCache: Scanning file cache for directory 'F:/Juegos/UE_Projects/FPBG/Saved/Collections/' took 0.01s
+[2018.07.20-19.56.41:224][  0]LogFileCache: Scanning file cache for directory 'F:/Juegos/UE_Projects/FPBG/Content/Developers/bitt3rman/Collections/' took 0.01s
+[2018.07.20-19.56.41:224][  0]LogFileCache: Scanning file cache for directory 'F:/Juegos/UE_Projects/FPBG/Content/Collections/' took 0.01s
+[2018.07.20-19.56.41:224][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.20-19.56.41:269][  0]LogContentBrowser: Native class hierarchy populated in 0.0354 seconds. Added 2454 classes and 561 folders.
+[2018.07.20-19.56.41:398][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.20-19.56.42:195][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.20-19.56.42:293][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.07.20-19.56.43:335][  0]LogSlate: Took 0.000738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.20-19.56.43:349][  0]LogSlate: Took 0.005552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.20-19.56.43:466][  0]LogSlate: Took 0.011942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.20-19.56.44:129][  0]LogRenderer: Reallocating scene render targets to support 1164x620 Format 10 NumSamples 1 (Frame:1).
+[2018.07.20-19.56.45:078][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.20-19.56.45:078][  0]LogLoad: (Engine Initialization) Total time: 30.42 seconds
+[2018.07.20-19.56.45:078][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.20-19.56.45:512][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.20-19.56.45:749][  0]LogSlate: Took 0.016058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.20-19.56.46:456][  3]LogSlate: Took 0.000866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.20-19.56.46:793][  4]LogAssetRegistry: Asset discovery search completed in 20.5366 seconds
+[2018.07.20-19.56.46:818][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.20-19.56.46:818][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000197 seconds (updated 0 objects)
+[2018.07.20-19.57.11:250][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-19.57.11:304][258]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.20-19.57.11:385][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-19.57.11:410][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-19.57.20:142][258]LogSlate: Window 'Mensaje' being destroyed
+[2018.07.20-19.57.27:332][615]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.07.20-19.57.28:330][615]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec9faac260, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.20-19.57.28:350][615]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec9faac258, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.20-19.57.30:055][615]LogSlate: Took 0.010172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.20-19.57.41:761][114]BlueprintLog: New page: Compilar GameInfoInstance
+[2018.07.20-19.57.42:154][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec840b5580, Size=528
+[2018.07.20-19.57.42:154][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec83873b00, Size=528, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_34:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-19.57.42:155][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec84075940, Size=32
+[2018.07.20-19.57.42:155][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7667360, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_35:ExecuteUbergraph_MainMenu
+[2018.07.20-19.57.42:157][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec8409e560, Size=96
+[2018.07.20-19.57.42:157][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca758b0a0, Size=96, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_9:ExecuteUbergraph_HostMenu
+[2018.07.20-19.57.42:158][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec8448f948, Size=40
+[2018.07.20-19.57.42:158][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca75d9080, Size=40, MainMenu_C_1 Function /Engine/Transient.REINST_MainMenu_C_10:ExecuteUbergraph_MainMenu
+[2018.07.20-19.57.42:160][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec84029fa0, Size=104
+[2018.07.20-19.57.42:160][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca75d6b70, Size=104, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_11:ExecuteUbergraph_OptionsMenu
+[2018.07.20-19.57.42:162][114]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec84037380, Size=608
+[2018.07.20-19.57.42:163][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca2250b80, Size=608, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_12:ExecuteUbergraph_ServerMenu
+[2018.07.20-19.57.42:179][114]LogBlueprint: Error: [Compiler GameInfoInstance] In use pin  Save Game Ref  no longer exists on node  Obtener . Please refresh node or break links to remove pin.
+[2018.07.20-19.57.42:259][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7248680, Size=528, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-19.57.42:260][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca721c8e0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-19.57.42:297][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca71e3640, Size=96, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.20-19.57.42:319][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca75d8338, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-19.57.42:324][114]LogBlueprint: Warning: [Compiler OptionsMenu] Could not find the function 'GameSave' called from  Game Save
+[2018.07.20-19.57.42:328][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca717cbf0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.20-19.57.42:345][114]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca71cdd00, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.07.20-19.57.42:365][114]LogBlueprint: Warning: [Compiler OptionsMenu] [0087,71] Compile of OptionsMenu successful, but with 1 Warning(s) [in 539 ms] (/Game/UI/MainMenu/OptionsMenu.OptionsMenu)
+[2018.07.20-19.57.42:899][114]LogBlueprint: Warning: [Compiler GameInfoInstance] [0088,25] Compile of GameInfoInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 1.138 ms] (/Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance)
+[2018.07.20-19.59.02:845][978]LogSlate: Window 'GameInfoInstance*' being destroyed
+[2018.07.20-19.59.31:900][885]LogSlate: Took 0.013965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.20-19.59.41:621][559]LogSlate: Window 'Modificar tipo de variable' being destroyed
+[2018.07.20-19.59.41:639][559]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec898fcae8, Size=4, Default__SKEL_GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.SKEL_GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-20.00.10:832][528]LogSlate: Window 'Indexing All' being destroyed
+[2018.07.20-20.00.25:375][662]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
+[2018.07.20-20.00.26:764][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.26:991][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:127][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:143][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:147][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:162][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:166][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:180][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:184][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:188][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:191][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:195][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:259][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:263][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:266][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:267][662]LogSavePackage: Save=536.67ms
+[2018.07.20-20.00.27:268][662]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/BP_LightStudioF1DC4ED2486A53F249C5C2AC94EBF924.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/BP_LightStudio.uasset'
+[2018.07.20-20.00.27:273][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:291][662]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:292][662]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2018.07.20-20.00.27:404][663]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec9c004f00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.20-20.00.27:416][663]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec9c004f00, Size=256
+[2018.07.20-20.00.27:416][663]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec9c004f00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_46:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.20-20.00.27:421][663]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7246600, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.20-20.00.27:567][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:580][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:593][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:597][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:601][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:606][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:610][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:615][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:619][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:623][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:626][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:630][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:638][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:642][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:644][663]LogSavePackage: Save=112.68ms
+[2018.07.20-20.00.27:646][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:646][663]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/FirstPersonProjectile052A442C4886FAC611695CB052742E6E.tmp' to '../../../../UE_Projects/FPBG/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.07.20-20.00.27:654][663]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.27:656][663]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.07.20-20.00.27:988][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:001][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:011][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:014][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:018][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:022][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:025][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:029][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:033][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:036][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:040][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:042][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:050][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:053][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:054][664]LogSavePackage: Save=101.81ms
+[2018.07.20-20.00.28:057][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:057][664]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_CeilingLight5DA655C545635E3CA21CB68B55274BD7.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2018.07.20-20.00.28:062][664]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:064][664]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2018.07.20-20.00.28:084][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:861][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:869][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:875][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:879][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:882][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:885][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:889][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:892][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:896][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:899][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:902][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:906][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:911][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:914][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:915][665]LogSavePackage: Save=88.71ms
+[2018.07.20-20.00.28:917][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:917][665]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_Effect_Explosion42ABE473477C7FB4BF19B8A9459C845A.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset'
+[2018.07.20-20.00.28:924][665]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.28:926][665]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2018.07.20-20.00.28:948][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:461][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:486][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:492][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:495][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:498][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:501][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:505][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:509][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:512][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:516][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:520][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:524][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:528][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:532][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:534][666]LogSavePackage: Save=113.49ms
+[2018.07.20-20.00.29:536][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:536][666]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_Effect_FireE66772D241929024D8D39AA048E50076.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset'
+[2018.07.20-20.00.29:542][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:544][666]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2018.07.20-20.00.29:567][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:766][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:775][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:781][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:785][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:789][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:792][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:795][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:799][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:803][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:807][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:810][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:813][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:818][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:821][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:824][667]LogSavePackage: Save=92.24ms
+[2018.07.20-20.00.29:825][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:825][667]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_Effect_SmokeF13F8076410939580B0B908E0571C449.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset'
+[2018.07.20-20.00.29:832][667]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.29:833][667]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2018.07.20-20.00.29:854][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:170][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:191][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:197][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:201][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:205][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:207][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:209][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:213][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:217][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:220][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:224][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:227][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:232][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:235][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:237][668]LogSavePackage: Save=104.97ms
+[2018.07.20-20.00.30:238][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:239][668]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_Effect_Sparks1B49287E41D953C847C961B87A119673.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset'
+[2018.07.20-20.00.30:245][668]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:247][668]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2018.07.20-20.00.30:270][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:427][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:434][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:441][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:445][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:447][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:451][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:454][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:458][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:461][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:464][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:467][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:471][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:476][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:480][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:482][669]LogSavePackage: Save=90.97ms
+[2018.07.20-20.00.30:484][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:484][669]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_Effect_SteamB55FCA294ADD95673A43B1A27485D029.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset'
+[2018.07.20-20.00.30:491][669]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:493][669]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2018.07.20-20.00.30:513][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:646][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:660][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:672][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:676][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:679][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:682][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:686][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:690][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:695][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:699][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:704][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:708][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:718][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:722][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:725][670]LogSavePackage: Save=107.10ms
+[2018.07.20-20.00.30:727][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:727][670]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/Blueprint_WallSconceF15E33B5433476ABAE08A89C04E8816D.tmp' to '../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2018.07.20-20.00.30:736][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.30:738][670]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2018.07.20-20.00.30:787][671]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.07.20-20.00.36:756][186]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.20-20.00.36:761][186]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.20-20.00.48:029][259]BlueprintLog: New page: Compilar GameInfoInstance
+[2018.07.20-20.00.48:096][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec898fcae8, Size=4
+[2018.07.20-20.00.48:096][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec898fcae8, Size=4, Default__SKEL_GameInfoInstance_C Function /Engine/Transient.REINST_SKEL_GameInfoInstance_C_62:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-20.00.48:330][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca7248680, Size=528
+[2018.07.20-20.00.48:330][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7248680, Size=528, GameInfoInstance_C_0 Function /Engine/Transient.REINST_GameInfoInstance_C_70:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-20.00.48:330][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca721c8e0, Size=32
+[2018.07.20-20.00.48:330][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7665ea0, Size=32, MainMenu_C_3 Function /Engine/Transient.REINST_MainMenu_C_71:ExecuteUbergraph_MainMenu
+[2018.07.20-20.00.48:333][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca71e3640, Size=96
+[2018.07.20-20.00.48:333][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca71883a0, Size=96, HostMenu_C_1 Function /Engine/Transient.REINST_HostMenu_C_17:ExecuteUbergraph_HostMenu
+[2018.07.20-20.00.48:334][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca75d8338, Size=40
+[2018.07.20-20.00.48:334][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca75d8338, Size=40, MainMenu_C_4 Function /Engine/Transient.REINST_MainMenu_C_18:ExecuteUbergraph_MainMenu
+[2018.07.20-20.00.48:336][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca717cbf0, Size=104
+[2018.07.20-20.00.48:336][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca759a8d0, Size=104, OptionsMenu_C_1 Function /Engine/Transient.REINST_OptionsMenu_C_19:ExecuteUbergraph_OptionsMenu
+[2018.07.20-20.00.48:338][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca71cdd00, Size=608
+[2018.07.20-20.00.48:338][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7249300, Size=608, ServerMenu_C_1 Function /Engine/Transient.REINST_ServerMenu_C_20:ExecuteUbergraph_ServerMenu
+[2018.07.20-20.00.48:398][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecaff9a200, Size=528, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.07.20-20.00.48:401][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecaff7e9c0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-20.00.48:405][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca7f49000, Size=96, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.07.20-20.00.48:410][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca75dbbc8, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-20.00.48:415][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb1310330, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.07.20-20.00.48:424][259]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecaff9b600, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec9c004f00, Size=256
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec83873b00, Size=528
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca758b0a0, Size=96
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca75d9080, Size=40
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca75d6b70, Size=104
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca2250b80, Size=608
+[2018.07.20-20.00.48:655][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca7667360, Size=32
+[2018.07.20-20.00.48:656][259]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec898fcae8, Size=4
+[2018.07.20-20.00.50:072][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/GameInfoInstance" FILE="../../../../UE_Projects/FPBG/Content/Blueprints/AllLevels/GameInfoInstance.uasset" SILENT=true
+[2018.07.20-20.00.50:281][375]LogSavePackage: Save=174.36ms
+[2018.07.20-20.00.50:281][375]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/GameInfoInstanceD4BA792542C7A1016CC399824788EC5B.tmp' to '../../../../UE_Projects/FPBG/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.07.20-20.00.50:286][375]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2018.07.20-20.00.51:970][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.20-20.00.52:007][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.00.52:008][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-20.00.52:084][497]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.00.52:084][497]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.20-20.00.52:116][497]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.20-20.00.52:116][497]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.20-20.00.52:116][497]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.07.20-20.00.52:116][497]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.07.20-20.00.52:162][497]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (20/7/2018 22:00:52)
+[2018.07.20-20.00.52:259][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.20-20.00.52:288][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029268s)
+[2018.07.20-20.00.52:301][497]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.20-20.00.52:301][497]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2018.07.20-20.00.52:302][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.042624s)
+[2018.07.20-20.00.52:355][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca7248680, Size=528
+[2018.07.20-20.00.52:355][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca7665ea0, Size=32
+[2018.07.20-20.00.52:355][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca71883a0, Size=96
+[2018.07.20-20.00.52:355][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca75d8338, Size=40
+[2018.07.20-20.00.52:355][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca759a8d0, Size=104
+[2018.07.20-20.00.52:355][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca7249300, Size=608
+[2018.07.20-20.00.52:417][497]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-20.00.52:437][497]LogInit: FAudioDevice initialized.
+[2018.07.20-20.00.52:823][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca001d8f0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.20-20.00.52:970][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca001d8f0, Size=72
+[2018.07.20-20.00.52:970][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec903715d0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.20-20.00.53:053][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca29a1f80, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.20-20.00.53:918][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca532d600, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.20-20.00.53:963][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca532d600, Size=688
+[2018.07.20-20.00.53:963][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca5582b00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_79:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.20-20.00.53:984][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca5583d00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.20-20.00.54:062][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca9d8d788, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.07.20-20.00.54:070][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca9d8d788, Size=52
+[2018.07.20-20.00.54:070][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca9d8d788, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_81:ExecuteUbergraph_FirstPersonHUD
+[2018.07.20-20.00.54:076][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca9d8fc48, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.07.20-20.00.54:963][497]LogSkeletalMesh: Skeletal Mesh found in DDC [37.914391ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.07.20-20.00.55:028][497]LogSkeletalMesh: Skeletal Mesh found in DDC [20.586365ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.07.20-20.00.55:099][497]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-20.00.55:130][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.20-21.00.55
+[2018.07.20-20.00.55:158][497]LogWorld: Bringing up level for play took: 0.028819
+[2018.07.20-20.00.55:381][497]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.07.20-20.00.55:878][497]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_MainMenu 4,242
+[2018.07.20-20.00.55:892][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.02:649][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-20.01.07:723][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.07:760][124]LogSlate: Window 'FPBG Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.20-20.01.07:848][124]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.01.07:854][124]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.20-20.01.07:857][124]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.20-20.01.07:857][124]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.20-20.01.07:857][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-20.01.07:858][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.07:929][124]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca5582b00, Size=688
+[2018.07.20-20.01.07:929][124]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca9d8d788, Size=52
+[2018.07.20-20.01.07:931][124]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec903715d0, Size=72
+[2018.07.20-20.01.07:968][125]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.07.20-20.01.07:969][125]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.01.08:696][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.20-20.01.08:731][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.08:731][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-20.01.08:731][173]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (20/7/2018 22:01:08)
+[2018.07.20-20.01.08:732][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.20-20.01.08:733][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2018.07.20-20.01.08:734][173]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.20-20.01.08:735][173]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2018.07.20-20.01.08:735][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003072s)
+[2018.07.20-20.01.08:788][173]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-20.01.08:807][173]LogInit: FAudioDevice initialized.
+[2018.07.20-20.01.08:861][173]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-20.01.08:863][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.20-21.01.08
+[2018.07.20-20.01.08:863][173]LogWorld: Bringing up level for play took: 0.000836
+[2018.07.20-20.01.08:889][173]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_MainMenu -0,745
+[2018.07.20-20.01.08:904][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.11:864][344]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.11:899][344]LogSlate: Window 'FPBG Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.20-20.01.11:941][344]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.01.11:941][344]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.20-20.01.11:942][344]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.20-20.01.11:942][344]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.20-20.01.11:942][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-20.01.11:943][344]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.01.12:036][345]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.07.20-20.01.12:036][345]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.01.30:285][ 65]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.20-20.01.31:945][ 65]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.07.20-20.01.33:509][ 65]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.20-20.01.37:862][ 65]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb3bb0b58, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.07.20-20.01.37:872][ 65]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb3bb0b58, Size=4
+[2018.07.20-20.01.37:872][ 65]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb3bb0b58, Size=4, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_87:ExecuteUbergraph_StarterMap
+[2018.07.20-20.01.37:874][ 65]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb3bb0aa8, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.07.20-20.01.41:383][ 65]LogAIModule: Creating AISystem for world StarterMap
+[2018.07.20-20.01.43:283][ 65]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb3bb0b58, Size=4
+[2018.07.20-20.03.15:940][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.20-20.03.19:583][ 65]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb3bb0aa8, Size=4
+[2018.07.20-20.03.34:625][316]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.20-20.03.34:660][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.03.34:660][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-20.03.34:660][316]PIE: New page: Sesión PIE (reproducción en el editor): MainMenu (20/7/2018 22:03:34)
+[2018.07.20-20.03.34:661][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.20-20.03.34:662][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001441s)
+[2018.07.20-20.03.34:663][316]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.20-20.03.34:664][316]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2018.07.20-20.03.34:664][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003051s)
+[2018.07.20-20.03.34:719][316]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-20.03.34:740][316]LogInit: FAudioDevice initialized.
+[2018.07.20-20.03.34:799][316]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.20-20.03.34:800][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.20-21.03.34
+[2018.07.20-20.03.34:801][316]LogWorld: Bringing up level for play took: 0.000763
+[2018.07.20-20.03.34:828][316]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_MainMenu -0,791
+[2018.07.20-20.03.34:828][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.03.44:880][909]LogNetVersion: FPBG 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 272724767)
+[2018.07.20-20.03.44:930][909]LogNet: Browse: /Game/Maps/Lobby?listen
+[2018.07.20-20.03.44:933][909]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2018.07.20-20.03.45:094][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb8901000, Size=688, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.20-20.03.45:117][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb8901000, Size=688
+[2018.07.20-20.03.45:118][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb2fb4700, Size=688, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_89:ExecuteUbergraph_0_Base
+[2018.07.20-20.03.45:135][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ece3c49600, Size=688, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.07.20-20.03.45:146][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb12e95c0, Size=32, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.07.20-20.03.45:150][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb3bce980, Size=616, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.07.20-20.03.45:155][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecae1b7b50, Size=80, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.07.20-20.03.45:177][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecae1b7b50, Size=80
+[2018.07.20-20.03.45:178][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca685ecf0, Size=80, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_21:ExecuteUbergraph_LobbyMenu
+[2018.07.20-20.03.45:179][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb3bce980, Size=616
+[2018.07.20-20.03.45:179][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecf4c1ee80, Size=616, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_91:ExecuteUbergraph_LobbyPC
+[2018.07.20-20.03.45:179][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb12e95c0, Size=32
+[2018.07.20-20.03.45:179][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ec9f3b01e0, Size=32, Default__LobbyGM_C Function /Engine/Transient.REINST_LobbyGM_C_92:ExecuteUbergraph_LobbyGM
+[2018.07.20-20.03.45:194][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecae279490, Size=80, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.07.20-20.03.45:198][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecb2ca4e00, Size=616, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.07.20-20.03.45:200][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ecae212e00, Size=32, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.07.20-20.03.47:627][909]LogAIModule: Creating AISystem for world Lobby
+[2018.07.20-20.03.47:628][909]LogLoad: Game class is 'LobbyGM_C'
+[2018.07.20-20.03.47:673][909]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.20-20.03.47:674][909]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.07.20-20.03.47:674][909]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.20-20.03.47:688][909]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.07.20-20.03.47:707][909]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.20-20.03.47:730][909]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.07.20-20.03.47:734][909]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.07.20-21.03.47
+[2018.07.20-20.03.47:758][909]LogWorld: Bringing up level for play took: 0.026792
+[2018.07.20-20.03.47:785][909]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.20-20.03.47:789][909]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.20-20.03.47:789][909]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.20-20.03.47:835][909]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.20-20.03.47:845][909]LogLoad: Took 2.911636 seconds to LoadMap(/Game/Maps/Lobby)
+[2018.07.20-20.03.53:396][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.03.53:416][175]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.07.20-20.03.53:447][175]LogSlate: Window 'FPBG Vista preliminar del juego Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.20-20.03.53:498][175]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.03.53:498][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.20-20.03.53:499][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.20-20.03.53:499][175]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.20-20.03.53:499][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.20-20.03.53:499][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.07.20-20.03.53:545][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecb2fb4700, Size=688
+[2018.07.20-20.03.53:546][175]LogExit: GameNetDriver None shut down
+[2018.07.20-20.03.53:547][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eca685ecf0, Size=80
+[2018.07.20-20.03.53:547][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecf4c1ee80, Size=616
+[2018.07.20-20.03.53:547][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ec9f3b01e0, Size=32
+[2018.07.20-20.03.53:577][176]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.07.20-20.03.53:577][176]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.20-20.07.28:402][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../UE_Projects/FPBG/Saved/Autosaves/Game/Maps/MainMenu_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.20-20.07.28:424][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ecaff7e9c0, Size=32
+[2018.07.20-20.07.28:425][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca9e172c0, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_98:ExecuteUbergraph_MainMenu
+[2018.07.20-20.07.28:426][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eca9e156a0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.07.20-20.07.28:648][ 15]LogSavePackage: Save=229.73ms
+[2018.07.20-20.07.28:648][ 15]LogSavePackage: Moving '../../../../UE_Projects/FPBG/Saved/MainMenu_Auto1E03C61F9449A71CA4A1D7CA4547A9804.tmp' to '../../../../UE_Projects/FPBG/Saved/Autosaves/Game/Maps/MainMenu_Auto1.umap'
+[2018.07.20-20.07.28:651][ 15]LogSavePackage: Display: Finished SavePackage ../../../../UE_Projects/FPBG/Saved/Autosaves/Game/Maps/MainMenu_Auto1.umap
+[2018.07.20-20.07.28:674][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.372
+[2018.07.20-20.07.28:674][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
